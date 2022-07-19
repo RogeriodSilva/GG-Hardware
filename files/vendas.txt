@@ -1,0 +1,5 @@
+, -1,Cliente,Produto,Quantidade,Valor,Data
+, 1,Rogerio da Silva,RTX 3060 ti,1,3250,08/10/2022
+, 2,Rogerio da Silva,Gabinete Gamer,1,450,05/03/2022
+, 3,Fernando Dias Silva,RTX 3060 ti,2,3599.40,08/10/2022
+

@@ -1,0 +1,3 @@
+, -1,Nome,Contato,CNPJ,Produto Fornecido,Quantidade
+, 1,ASUS,www.asus.com/br/,09.509.531/0010-70,Placa Mae TUF B360M-PLUS GAMING/BR,150
+, 2,Kabum,www.kabum.com,314.354.45/0001-32,Teclado Mecƒnico Gamer Husky Gaming Blizzard - 60% - RGB - Switch Gateron Blue ABNT2 - Branco,230

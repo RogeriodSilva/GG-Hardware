@@ -1,0 +1,11 @@
+, -1,Descricao,Tipo,Em,Valor
+, 1,PLACA MAE ASROCK Z590 TAICHI - DDR4 - SOCKET LGA1200 - ATX - CHIPSET INTEL Z590 - Z590 TAICHI,Hardware,www.pichau.com,3.699
+, 2,PROCESSADOR AMD RYZEN 5 5600 - 6-CORE - 12-THREADS - 3.5GHZ 4.4GHZ TURBO - CACHE 35MB - AM4,Hardware,www.pichau.com,1.238
+, 3,Headset Gamer HyperX Cloud Core - Som Surround 7.1 - Drivers 53mm - USB e P3,Perifericos,www.kabum.com,379
+, 4,Teclado Mecânico Gamer T-Dagger Bora - RGB - Switch Outemu Brown,Perifericos,www.kabum.com,209
+, 5,SSD - Kingston - 480G,Hardware,www.amazon.com,327
+, 6,Memória HyperX Fury de 8GB DIMM DDR4 2666Mhz,Hardware,www.amazon.com,275
+, 7,Processador AMD Athlon 3000G Box - AM4  2 Cores  4 Threads  3.5Ghz  5MB Cache Vega 3,Hardware,www.amazon.com,469
+, 8,Placa de Vídeo Gigabyte Geforce RTX 2060 - 6GB GDDR6 - DLSS Ray Tracing,Hardware,www.kabum.com,3199
+, 9,Placa Mãe Asus Prime B450M GamingBR - Chipset B450 - AMD AM4,Hardware,www.kabum.com,449
+, 10,Monitor Gamer SuperFrame Vision - 23 Pol - Full HD - IPS - G-Sync - FreeSync - 1ms - 144Hz - HDMI  DP,Perifericos,www.pichau.com,1375
